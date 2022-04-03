@@ -1,0 +1,44 @@
+[
+    {
+      "id":"1",
+      "img": "./customer-1.png",
+      "name": "Md Jabir Hossin",
+      "rating":"4",
+      "review": "Excellence to detail. Looks like it just came from a real bakery."
+    },
+    {
+      "id":"2",
+      "img": "./customer-2.png",
+      "name": "Milon Khan",
+      "rating":"5",
+      "review": "This cake as far as flavor did not disappoint its extremely good so moist love the rum flavor...My only issue is the size and the price could be a lot more reasonable. The cake is very small for the price. But omg its delicious we have sampled so far this banana rum cake sooo god and the chocolate rum cake omg it was right on time for my pms chocolate indulgence so tasty."
+    },
+    {
+      "id":"3",
+      "img": "./customer-3.png",
+      "name": "Nurul Amin",
+      "rating":"5",
+      "review": "Coffee cakes are excellent. This one is not my fav."
+    },
+    {
+      "id":"4",
+      "img": "./customer-4.png",
+      "name": "Md Sujon Khan",
+      "rating":"3.5",
+      "review": "Yummy, YUM, YUM!! Great stuff and EVERYONE loved this!"
+    },
+    {
+      "id":"5",
+      "img": "./customer-5.png",
+      "name": "Abdulla",
+      "rating":"5",
+      "review": "This cake is so delicious and it arrived packaged to preserve the freshness. I didn’t open my cake until 2 weeks after I had purchased it and it tasted like it was just made! This was my family’s Christmas dessert and everyone loved it! My son in law loved it so much that I recently ordered him a personal one for himself."
+    },
+    {
+      "id":"6",
+      "img": "./customer-6.png",
+      "name": "Bilal Hossin",
+      "rating":"4.5",
+      "review": "This cake came on time, which was great since initially the seller had a after Christmas date of delivery. Packages was very good, well presented for a Christmas gift, but I only awarded it a 4 star because the rum taste was barely there.. could have been more rummy!"
+    }
+]
