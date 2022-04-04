@@ -3,9 +3,14 @@ import './Blogs.css'
 
 const Blogs = () => {
     return (
-        <div>
-            <h1>This is Blogs</h1>
-        </div>
+        <article>
+            <div>
+                <h1>abs</h1>
+            </div>
+            <div>
+                <h1>ahhh</h1>
+            </div>
+        </article>
     );
 };
 

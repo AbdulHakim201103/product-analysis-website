@@ -1,0 +1,11 @@
+.chart-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chart-div{
+    margin: 50px;
+}
+.chart-title{
+    text-align: center;
+}
