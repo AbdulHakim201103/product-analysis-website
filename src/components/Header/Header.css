@@ -14,3 +14,10 @@
 .navber .nav-link:hover{
     color:red;
 }
+@media screen and (max-width:688px) {
+    .navber{
+        display: block;
+        text-align: center;
+    }
+    
+}
